@@ -153,7 +153,6 @@ p{
     display: flex;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .course-col{
@@ -229,7 +228,7 @@ h3{
   width: 80%;
   margin: auto;
   text-align:center;
-  padding:100px
+  padding-top:100px
 }
 .facilities-col{
     flex-basis: 31%;
@@ -256,10 +255,10 @@ h3{
 /* -----------testimonials------------ */
 
 .testimonials{
-    width: 80%;
-    margin: auto;
-    padding: 100px;
-    text-align: center;
+  width: 80%;
+  margin: auto;
+  text-align:center;
+  padding-top:100px
 }
 
 .testimonial-col{
